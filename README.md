@@ -1,4 +1,4 @@
-🤖 **AI-Powered Weather & Currency Telegram Bot**
+🤖 **AI-Powered Weather & Currency Telegram Bot** 
 This repository contains the n8n workflow JSON for a smart Telegram bot that sends automated, AI-personalized daily briefings including weather updates for Baku and current exchange rates.
 
 📋 **Features**
