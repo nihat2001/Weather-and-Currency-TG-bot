@@ -1,7 +1,9 @@
 🤖 **AI-Powered Weather & Currency Telegram Bot** 
+
 This repository contains the n8n workflow JSON for a smart Telegram bot that sends automated, AI-personalized daily briefings including weather updates for Baku and current exchange rates.
 
 📋 **Features**
+
 Real-time Data: Fetches weather via Open-Meteo and currency rates via Open-ER-API.
 
 AI-Powered: Uses Groq (Llama 3) to transform raw data into a friendly, motivating message.
@@ -9,6 +11,7 @@ AI-Powered: Uses Groq (Llama 3) to transform raw data into a friendly, motivatin
 Automated: Scheduled to run every morning automatically.
 
 🚀 **How to Install**
+
 Since this repository only contains the workflow logic, follow these steps to get it running:
 
 Download the JSON:
@@ -36,6 +39,7 @@ Activate:
 Set the "Schedule Trigger" to your preferred time and click Execute Workflow to test.
 
 🛠️ **Tech Stack**
+
 n8n (Automation Engine)
 
 Docker (Self-hosted environment)
