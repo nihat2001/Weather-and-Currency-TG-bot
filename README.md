@@ -16,7 +16,7 @@ Since this repository only contains the workflow logic, follow these steps to ge
 
 Download the JSON:
 
-Open the workflow.json file in this repository.
+Open the weather_currency.json file in this repository.
 
 Click the "Raw" button and copy the entire code (or download the file).
 
